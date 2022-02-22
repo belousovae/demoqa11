@@ -3,9 +3,10 @@ plugins {
 }
 
 repositories {
-    MavenCentral()
+    mavenCentral()
 }
 
 dependencies {
+
 
 }
